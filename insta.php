@@ -6,7 +6,7 @@ $request_url = 'https://i.instagram.com/api/v1/users/web_profile_info/?username=
 
 // Set up headers
 $headers = array(
-    'User-Agent: Instagram 76.0.0.15.395 Android (24/7.0; 640dpi; 1440x2560; samsung; SM-G930F; herolte; samsungexynos8890; en_US; 138226743)',
+    'User-Agent: Mozilla/5.0 (iPhone; CPU iPhone OS 12_3_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148 Instagram 105.0.0.11.118 (iPhone11,8; iOS 12_3_1; en_US; en-US; scale=2.00; 828x1792; 165586599)',
     'Origin: https://www.instagram.com',
     'Referer: https://www.instagram.com/'
 );
